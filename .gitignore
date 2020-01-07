@@ -1,0 +1,6 @@
+# project
+project/target
+target/
+
+# IntelliJ
+.idea
