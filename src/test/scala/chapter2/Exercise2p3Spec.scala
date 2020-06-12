@@ -5,7 +5,7 @@ import Exercise2p3.curry
 
 class Exercise2p3Spec extends FlatSpec with Matchers {
 
-  behavior of "Exercise2p3"
+  behavior of "curry"
 
   it should "return a curried function of two input arguments" in {
 
