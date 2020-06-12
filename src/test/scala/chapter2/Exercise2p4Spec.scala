@@ -5,7 +5,7 @@ import org.scalatest.{FlatSpec, Matchers}
 
 class Exercise2p4Spec extends FlatSpec with Matchers {
 
-  behavior of "Exercise2p4"
+  behavior of "uncurry"
 
   it should "return an uncurried function of two input arguments" in {
 

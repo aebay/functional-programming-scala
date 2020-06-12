@@ -5,7 +5,7 @@ import org.scalatest.{FlatSpec, Matchers}
 
 class Exercise2p5Spec extends FlatSpec with Matchers {
 
-  behavior of "Exercise2p4"
+  behavior of "compose"
 
   it should "return an composed function of the two input functions" in {
 
